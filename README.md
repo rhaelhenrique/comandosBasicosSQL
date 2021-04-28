@@ -1,4 +1,4 @@
-# Algumas anotaões importantes para estudar Banco de Dados e utilizar como consulta
+# Algumas anotações importantes para estudar Banco de Dados e utilizar como consulta
 
 
 -- Autor: Rhael Henrique
