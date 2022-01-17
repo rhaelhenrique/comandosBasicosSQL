@@ -59,7 +59,7 @@ SELECT campo1, campo2 FROM tabela1 WHERE campo1 'condição';
 
 :: Operadores de Condição
 
-= > < >= <= <>ou!=
+= != > < >= <= <>
 
 --Mesmas funcionalidades das linguagens de programação.
 
